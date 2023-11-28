@@ -1,0 +1,116 @@
+  UW PICO 5.09                           New Buffer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                [ Read 1 line ]
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut Text  ^C Cur
+Pos
+^X Exit      ^J Justify   ^W Where is  ^V Next Pg   ^U UnCut Text^T To
+Spell
+Last login: Tue Nov 28 16:26:17 on ttys001
+
+  UW PICO 5.09                           New Buffer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                [ Read 1 line ]
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut Text  ^C Cur
+Pos
+^X Exit      ^J Justify   ^W Where is  ^V Next Pg   ^U UnCut Text^T To
+Spell
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+AR0C02DT4WVML85:carpeta sin título felipcosta$ git clone
+git@github.com:felipecosta03/actividadGitDeA2.git
+Cloning into 'actividadGitDeA2'...
+Enter passphrase for key '/Users/felipcosta/.ssh/id_ed25519':
+warning: You appear to have cloned an empty repository.
+  UW PICO 5.09                           New Buffer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               [ Read 10 lines ]
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut Text  ^C Cur
+Pos
+^X Exit      ^J Justify   ^W Where is  ^V Next Pg   ^U UnCut Text^T To
+Spell
+  UW PICO 5.09             File: .pre-commit-config.yaml
+Modified
+
+
+-   repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v2.3.0
+    hooks:
+    -   id: check-yaml
+    -   id: end-of-file-fixer
+    -   id: trailing-whitespace
+-   repo: https://github.com/psf/black
+    rev: 22.-   repo:
+https://github.com/pre-commit/pre-commit-hooks
+    rev: v2.3.0
+    hooks:
+    -   id: check-yaml
+    -   id: end-of-file-fixer
+    -   id: trailing-whitespace
+-   repo: https://github.com/psf/black
+    rev: 22.10.0
+    hooks:
+    -   id: black
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut Text  ^C Cur
